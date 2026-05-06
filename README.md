@@ -1,6 +1,6 @@
 # 🎵 Naava
 
-So I built this thing. It's a music website called **Naava** — clean, fast, and actually fun to use. I wanted to practice building a real-world UI with React and Tailwind, and music players felt like the perfect challenge because there's a lot of moving pieces: the player controls, the song list, the UI state... yeah, it was a good time.
+It's a music website called **Naava** — clean, fast, and actually fun to use. I wanted to practice building a real-world UI with React and Tailwind, and music players felt like the perfect challenge because there's a lot of moving pieces: the player controls, the song list, the UI state... yeah, it was a good time.
 
 You can check the live version here 👉 **[naava-eta.vercel.app](https://naava-eta.vercel.app)**
 
